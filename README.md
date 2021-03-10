@@ -1,2 +1,2 @@
 # ray_tracing
-repository for ray tracing using cuda c++
+Repository for ray tracing in c++
