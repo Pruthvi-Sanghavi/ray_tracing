@@ -6,3 +6,6 @@ Repository for ray tracing in c++
   <img src="https://github.com/Pruthvi-Sanghavi/ray_tracing/blob/main/images/img4.png" height="150px"/>
   <img src="https://github.com/Pruthvi-Sanghavi/ray_tracing/blob/main/images/img5.png" height="150px"/>
 </p>
+
+#### References
+[1] https://raytracing.github.io/books/RayTracingInOneWeekend.html
